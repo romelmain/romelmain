@@ -12,9 +12,9 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
+- A passionate Self-taught software developer
 - I am currently Machine Learning by Self
-- [Linkedin](https://www.linkedin.com/in/romel-herrera-toro-soa33/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I love all kinds of software developments
+- I’m currently open for an Intern or a new job opportunity, this is [my Linkedin Profile](https://www.linkedin.com/in/romel-herrera-toro-soa33/)
 
 <br><br>
