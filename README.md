@@ -81,15 +81,25 @@
 
 <br>
 
-- **Integration Projects**:
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Integration Projects**
 
-    - Mulesoft
-    - Anypoint Platform
-    - Anypoint Mq
-    - Api Governance
-    - Exchange
-    - Api Manager
-    - Dataweave
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+  <img width="25%" align="left" alt="Github" src="https://github.com/romelmain/romelmain/blob/master/image/mule-logo.png" />
+
+- Mulesoft
+- Anypoint Platform
+- Anypoint Studio
+- Anypoint MQ
+- Exchange
+- Api Manager
+- Api Governance
+- Raml
+- Dataweave
+
+
+<br>
   
 
 
@@ -97,7 +107,7 @@
 
 
 
-- **Extras && Hobbies **:
+- **Extras && Hobbies**:
 
     ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
     ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
