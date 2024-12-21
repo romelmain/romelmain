@@ -8,7 +8,6 @@
 
 ## **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
   <img width="55%" align="right" alt="Github" src="https://github.com/romelmain/romelmain/blob/master/image/mulesoft-python.png" />
